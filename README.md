@@ -1,1 +1,1 @@
-## Fun and useful projects with Python
+Fun and useful projects with Python
